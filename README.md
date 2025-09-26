@@ -22,7 +22,7 @@ This project is a C++ Library of generic data structures that provides object-or
 - Doubly Circular Linked List
 - Stack (LIFO)
 - Queue (FIFO)
-- 
+  
 # Non-Linear Data Structures :
 - Binary Search Tree (BST) with insert, delete, traversal operations
   
@@ -44,5 +44,5 @@ This project is a C++ Library of generic data structures that provides object-or
 - Practical knowledge of searching and sorting algorithms.
 - Experience in designing reusable libraries for software development.
 
-GitHub Repository
+# GitHub Repository :
 🔗 https://github.com/Yash-Pagar1/Generalised-DS
